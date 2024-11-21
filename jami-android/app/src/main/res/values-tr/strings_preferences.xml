@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="pref_category_network">Ağ</string>
+  <string name="pref_category_contacts">Kişiler</string>
+  <string name="pref_category_video">Görüntü</string>
+  <string name="pref_category_system">Sistem</string>
+  <string name="pref_category_privacy">Gizlilik</string>
+  <string name="pref_category_diagnostic">Tanılama</string>
+  <string name="pref_mobileData_title">Hücresel veri</string>
+  <string name="pref_mobileData_summary">Jami uygulamasına Wi-Fi bağlantınına ek olarak 3G/LTE ağlarında izin ver</string>
+  <string name="pref_pushNotifications_title">Anlık bildirimler</string>
+  <string name="pref_pushNotifications_summary">Arka planda çağrı/ileti alınmasına izin vermek için Google sunucularını kullan</string>
+  <string name="pref_unifiedPush_summary">Arka planda çağrı/ileti alınmasına izin vermek için UnifiedPush hizmetini kullanın</string>
+  <string name="pref_video_advanced_title">Gelişmiş görüntü ayarları</string>
+  <string name="pref_video_advanced_summary">Görüntü bit oranını ve çözünürlüğünü değiştir, ayrıca deneysel özelliklere eriş</string>
+  <string name="pref_hd_summary">Yüksek çözünürlüklü görüntü göndermeyi etkinleştir</string>
+  <string name="pref_hwEncode_title">Hızlandırılmış kodlamayı etkinleştir</string>
+  <string name="pref_hwEncode_summary">Deneysel özellik</string>
+  <string name="pref_videoBitrate_title">Görüntü bit oranı</string>
+  <string name="pref_videoBitrate_summary">Öntanımlı giden görüntü bit oranını seç (KB/s)</string>
+  <string name="pref_videoResolution_title">Görüntü çözünürlüğü</string>
+  <string name="pref_videoResolution_summary">Öntanımlı giden görüntü çözünürlüğünü seç</string>
+  <string name="pref_systemContacts_title">Sistem kişilerini kullan</string>
+  <string name="pref_systemContacts_summary">Arayan ayrıntılarını göstermek için sistem kişilerini kullan.</string>
+  <string name="pref_systemDialer_title">Jami\'yi kullanarak sistem çağrıları yap</string>
+  <string name="pref_systemDialer_summary">Sistem çağrıları yerine olabildiğince Jami kullan</string>
+  <string name="pref_startOnBoot_title">Jami uygulamasını başlangıçta başlat</string>
+  <string name="pref_startOnBoot_summary">Sistem başladığında Jami uygulamasını arka planda çalıştır.</string>
+  <string name="pref_clearHistory_title">Geçmişi temizle</string>
+  <string name="pref_notification_title">Bildirim görünürlüğü</string>
+  <string name="pref_notification_summary">Kilit ekranında uygulama bildirimlerinin görünürlüğünü ayarla.</string>
+  <string name="pref_blackList_title">Engellenenler listesi</string>
+  <string name="pref_blackList_summary">Engelleme listeni gözden geçir.</string>
+  <string name="pref_delete_account_title">Hesabı sil</string>
+  <string name="pref_newGroup_title">Grup sohbetini etkinleştir</string>
+  <string name="pref_newGroup_summary">Jami uygulamasında grup oluşturmayı etkinleştir.</string>
+  <string name="pref_logs_title">Tanılama günlüğü</string>
+  <string name="pref_logs_summary">Tanılama günlüğü ayarlarını aç</string>
+  <string name="pref_logs_start">Günlükle</string>
+  <string name="pref_logs_stop">Günlüklemeyi durdur</string>
+  <string name="pref_typing_title">Yazım göstergelerini etkinleştir</string>
+  <string name="pref_typing_summary">İleti yazıldığını gösteren yazım göstergelerini gönder ve al.</string>
+  <string name="pref_block_record_title">Ekran görüntüsünü ve kaydını engelle</string>
+  <string name="pref_block_record_summary">Ekran görüntüsü ya da kaydını almayı engelle.</string>
+  <string name="pref_link_preview_title">Görüşmelerde bağlantı ön izlemelerini göster</string>
+  <string name="pref_link_preview_summary">Ön izlemeler üçüncü taraf sunuculardan içerik indirmeyi gerektirir</string>
+  <!--Notifications Visibility-->
+  <!--Extension-->
+  <string name="pref_extensions_title">Uzantılar</string>
+  <string name="extension_invalid_signature"><b>%1$s</b> geçersiz bir imza içeriyor.</string>
+</resources>

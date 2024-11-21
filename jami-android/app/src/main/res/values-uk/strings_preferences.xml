@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="pref_category_network">Мережа</string>
+  <string name="pref_category_contacts">Контакти</string>
+  <string name="pref_category_video">Відео</string>
+  <string name="pref_category_system">Система</string>
+  <string name="pref_category_privacy">Приватність</string>
+  <string name="pref_category_diagnostic">Діагностика</string>
+  <string name="pref_mobileData_title">Мобільний інтернет</string>
+  <string name="pref_mobileData_summary">Дозволити працювати Jami у мережах 3G/LTE, на додачу до до Wi-Fi.</string>
+  <string name="pref_pushNotifications_title">Push сповіщення</string>
+  <string name="pref_pushNotifications_summary">Використовувати сервери Google для отримання дзвінків/повідомлень в фоновому режимі</string>
+  <string name="pref_unifiedPush_summary">Використовувати сервіс UnifiedPush для отримання дзвінків/повідомлень в фоновому режимі</string>
+  <string name="pref_video_advanced_title">Розширені налаштування відео</string>
+  <string name="pref_video_advanced_summary">Налаштування бітрейту відео, роздільної здатності, та доступ до експериментальних функцій</string>
+  <string name="pref_hd_summary">Увімкнути надсилання HD-відео</string>
+  <string name="pref_hwEncode_title">Увімкнути прискорене кодування</string>
+  <string name="pref_hwEncode_summary">Експериментальна функція</string>
+  <string name="pref_videoBitrate_title">Бітрейт відео</string>
+  <string name="pref_videoBitrate_summary">Виберіть бітрейт вихідного відео за замовчуванням (КБ/с)</string>
+  <string name="pref_videoResolution_title">Роздільна здатність відео</string>
+  <string name="pref_videoResolution_summary">Виберіть роздільну здатність вихідного відео за замовчуванням</string>
+  <string name="pref_systemContacts_title">Використовувати контакти з адресної книги</string>
+  <string name="pref_systemContacts_summary">Використовувати дані з адресної книги, щоб показувати інформацію про абонента.</string>
+  <string name="pref_systemDialer_title">Використовувати Jami для здійснення викликів на пристрої</string>
+  <string name="pref_systemDialer_summary">Використовуйте Jami, щоб дзвонити як по телефону, коли це можливо.</string>
+  <string name="pref_startOnBoot_title">Запускати Jami після включення пристрою</string>
+  <string name="pref_startOnBoot_summary">Дозволити Jami працювати у фоновому режимі після завантаження пристрою.</string>
+  <string name="pref_clearHistory_title">Очистити історію</string>
+  <string name="pref_notification_title">Видимість сповіщень</string>
+  <string name="pref_notification_summary">Налаштувати видимість сповіщень програми на екрані блокування.</string>
+  <string name="pref_blackList_title">Список заблокованих</string>
+  <string name="pref_blackList_summary">Перевірте список заблокованих.</string>
+  <string name="pref_delete_account_title">Видалити обліковий запис</string>
+  <string name="pref_newGroup_title">Дозволити групові чати</string>
+  <string name="pref_newGroup_summary">Дозволити створювати групи в Jami.</string>
+  <string name="pref_logs_title">Журнали діагностики</string>
+  <string name="pref_logs_summary">Відкрити налаштування журналу діагностики</string>
+  <string name="pref_logs_start">Розпочати ведення журналу</string>
+  <string name="pref_logs_stop">Зупинити ведення журналу</string>
+  <string name="pref_typing_title">Дозволити індикатори набору тексту</string>
+  <string name="pref_typing_summary">Надсилати та приймати маркери, які показують, що повідомлення вводиться.</string>
+  <string name="pref_block_record_title">Блокувати скріншоти і запис</string>
+  <string name="pref_block_record_summary">Заборонити знімки екрана або запис відео.</string>
+  <string name="pref_link_preview_title">Показувати попередній перегляд посилань у розмовах</string>
+  <string name="pref_link_preview_summary">Попередній перегляд працює шляхом завантаження вмісту зі сторонніх серверів.</string>
+  <!--Notifications Visibility-->
+  <!--Extension-->
+  <string name="pref_extensions_title">Розширення</string>
+  <string name="extension_invalid_signature"><b>%1$s</b> має недійсний підпис</string>
+</resources>

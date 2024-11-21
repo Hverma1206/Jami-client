@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Strings related to account edition screen-->
+  <!--Strings related to account creation-->
+  <string name="dialog_warn_ip2ip_account_title">Leeres SIP-Konto erstellen?</string>
+  <string name="dialog_warn_ip2ip_account_message">Sie sind dabei, ein SIP-Konto ohne gültigen Hostnamen zu erstellen.
+Sie können nur direkte IP-Anrufe tätigen und empfangen.
+Sie können Ihr Konto später bearbeiten</string>
+  <string name="help_sip_title">SIP-Konto hinzufügen</string>
+  <string name="create_sip_account">SIP-Konto konfigurieren</string>
+  <!--Strings related to account deletion-->
+  <string name="account_delete_dialog_title">Konto löschen?</string>
+  <string name="account_delete_dialog_message">Diese Aktion kann nicht rückgängig gemacht werden.</string>
+  <!--AccountManagementFragment-->
+  <string name="normal_devices_titles">Verknüpfte Geräte</string>
+  <string name="account_device_revocation_error_title">Gerätefehler rückgängig machen</string>
+  <string name="account_device_revocation_wrong_password">Falsches Passwort.</string>
+  <!--Basic Details-->
+  <!--Extension Details-->
+  <string name="account_preferences_extension_tab">Erweiterungen</string>
+  <!--Audio Details-->
+  <!--Video Details-->
+  <!--Advanced Details-->
+  <string name="account_proxy_list_enable_label">DHT-Proxyliste verwenden</string>
+  <string name="account_proxy_server_used">Verwendet: %1$s</string>
+  <!--Security Details-->
+  <!--SRTP Details-->
+  <!--SIP-->
+  <!--TLS Details-->
+  <!--restore/backup-->
+  <string name="account_export_end_decryption_message">Falsches Passwort. Bitte versuchen Sie es erneut mit dem richtigen Passwort.</string>
+  <string name="account_export_end_network_message">Beim Exportieren des Kontos ist ein Netzwerkfehler aufgetreten. Überprüfen Sie Ihre Konnektivität.</string>
+  <string name="account_export_end_error_message">Beim Exportieren des Kontos ist ein unbekannter Fehler aufgetreten.</string>
+  <string name="account_share_body">Kontaktieren Sie mich über „%1$s“ auf der Jami-Plattform für verteilte Kommunikation: %2$s</string>
+  <string name="account_share_body_with_username">Kontaktieren Sie mich über „%1$s“ oder meinen öffentlichen Benutzernamen „%2$s“ auf der verteilten Kommunikationsplattform Jami:%3$s</string>
+  <string name="account_contact_me">Kontaktiere mich bei Jami!</string>
+  <string name="account_migration_message_dialog">Ihre Konten müssen aktualisiert werden. Möchten Sie zum Bildschirm „Kontoverwaltung“ wechseln, um diesen Vorgang auszuführen?</string>
+  <string name="account_cannot_be_found_title">Kontofehler</string>
+  <string name="account_cannot_be_found_message">Konto im Jami-Netzwerk konnte nicht gefunden werden. Stellen Sie sicher, dass es von einem vorhandenen Gerät auf Jami exportiert wurde und dass die angegebenen Anmeldeinformationen korrekt sind.</string>
+  <string name="jams_account_cannot_be_found_message">Beim Verbinden des Kontos ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre Anmeldedaten und versuchen Sie es erneut.</string>
+  <string name="account_no_network_title">Netzwerkfehler</string>
+  <string name="account_no_network_message">Beim Hinzufügen des Jami-Kontos zum verteilten Netzwerk ist ein Verbindungsfehler aufgetreten. Überprüfen Sie die Konnektivität Ihres Geräts.</string>
+  <string name="account_device_added_message">Das Jami-Konto wurde auf diesem Gerät erfolgreich eingerichtet.</string>
+  <string name="account_device_updated_message">Jami-Konto erfolgreich aktualisiert.</string>
+  <string name="account_cannot_be_updated_message">Beim Aktualisieren des Kontos ist ein Fehler aufgetreten. Bitte überprüfen Sie das Kontopasswort.</string>
+  <string name="account_sip_success_title">SIP-Konto registriert</string>
+  <string name="account_sip_success_message">SIP-Konto erfolgreich registriert.</string>
+  <!--TV-->
+  <string name="account_link_export_info">Um dieses Konto auf anderen Geräten verwenden zu können, müssen Sie es zunächst auf Jami verfügbar machen. Dadurch wird ein PIN-Code generiert, den Sie auf dem neuen Gerät eingeben müssen, um das Konto einzurichten. Die PIN läuft in 10 Minuten ab.</string>
+  <string name="account_end_export_infos">Ihre PIN lautet:\n\n%%\n\nUm den Vorgang abzuschließen, müssen Sie Jami auf dem neuen Gerät öffnen. Erstellen Sie ein neues Konto mit „Dieses Gerät mit einem Konto verknüpfen“. Die PIN läuft in 10 Minuten ab.</string>
+  <string name="account_link_export_info_light">Um dieses Konto auf anderen Geräten verwenden zu können, müssen Sie es zunächst auf Jami verfügbar machen. Dadurch wird ein PIN-Code generiert, den Sie auf dem neuen Gerät eingeben müssen, um das Konto einzurichten. Die PIN läuft in 10 Minuten ab.</string>
+  <string name="account_connect_server">Verbindung zum JAMS-Server herstellen</string>
+  <string name="account_enter_username">Benutzernamen eingeben</string>
+  <string name="account_enter_servername">Server eingeben</string>
+  <!--Name registration-->
+  <!--Create account-->
+  <string name="account_sip_cannot_be_registered">Beim Registrieren des SIP-Kontos ist ein Fehler aufgetreten.</string>
+  <!--Edit profile-->
+  <string name="account_edit_profile">Profil bearbeiten</string>
+  <!--Devices-->
+  <string name="revoke_device_message">Möchten Sie wirklich %1$s widerrufen?</string>
+  <string name="account_device_name_empty">Der Gerätename darf nicht leer sein.</string>
+  <!--Link a new device-->
+  <string name="account_link_device_info">Wählen Sie in der anderen Jami-App „Neues Gerät verknüpfen“, um den QR-Code oder die PIN anzuzeigen</string>
+  <string name="account_generate_export_info">Installieren und starten Sie Jami, wählen Sie „Von einem anderen Gerät importieren“ und scannen Sie den QR-Code.</string>
+  <string name="account_generate_export_invalid">Die PIN ist nicht mehr gültig.\nGeben Sie das Passwort ein und generieren Sie ein neues, um das neue Gerät zu verknüpfen.</string>
+  <string name="account_generate_export_invalid_two">Die PIN ist nicht mehr gültig.\nGenerieren Sie eine andere, um das neue Gerät zu verknüpfen.</string>
+  <!--Biometry-->
+</resources>

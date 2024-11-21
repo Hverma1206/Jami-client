@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="pref_category_network">網路</string>
+  <string name="pref_category_contacts">聯絡人</string>
+  <string name="pref_category_video">視訊</string>
+  <string name="pref_category_system">系統</string>
+  <string name="pref_category_privacy">隱私</string>
+  <string name="pref_category_diagnostic">診斷</string>
+  <string name="pref_mobileData_title">行動數據</string>
+  <string name="pref_mobileData_summary">除了 Wi-Fi 之外，允許 Jami 在 3G/LTE 網路上使用</string>
+  <string name="pref_pushNotifications_title">推播通知</string>
+  <string name="pref_pushNotifications_summary">使用 Google 的伺服器以讓您可以在背景收到通話／訊息</string>
+  <string name="pref_unifiedPush_summary">使用 UnifiedPush 服务,允许在背景中接收电话/消息</string>
+  <string name="pref_video_advanced_title">進階視訊設定</string>
+  <string name="pref_video_advanced_summary">變更視訊位元率、解析度並存取實驗性功能</string>
+  <string name="pref_hd_summary">啟用傳送高畫質視訊</string>
+  <string name="pref_hwEncode_title">啟用加速編碼</string>
+  <string name="pref_hwEncode_summary">實驗性功能</string>
+  <string name="pref_videoBitrate_title">視訊位元率</string>
+  <string name="pref_videoBitrate_summary">選取預設的傳出視訊位元率 (KB/s)</string>
+  <string name="pref_videoResolution_title">視訊解析度</string>
+  <string name="pref_videoResolution_summary">選取預設的傳出視訊解析度</string>
+  <string name="pref_systemContacts_title">使用系統聯絡人</string>
+  <string name="pref_systemContacts_summary">使用系統聯絡人顯示呼叫方的詳細資料</string>
+  <string name="pref_systemDialer_title">使用 Jami 撥打系統的電話功能</string>
+  <string name="pref_systemDialer_summary">當可用時，使用 Jami 撥打系統的電話</string>
+  <string name="pref_startOnBoot_title">開機時啟動 Jami</string>
+  <string name="pref_startOnBoot_summary">開機時在背景啟動 Jami</string>
+  <string name="pref_clearHistory_title">清除記錄</string>
+  <string name="pref_notification_title">通知可見性</string>
+  <string name="pref_notification_summary">設定鎖定畫面上的應用程式通知可見性。</string>
+  <string name="pref_blackList_title">封鎖清單</string>
+  <string name="pref_blackList_summary">檢查您的封鎖清單。</string>
+  <string name="pref_delete_account_title">刪除帳號</string>
+  <string name="pref_newGroup_title">啟用群組聊天</string>
+  <string name="pref_newGroup_summary">啟用在 Jami 中建立群組</string>
+  <string name="pref_logs_title">診斷紀錄檔</string>
+  <string name="pref_logs_summary">開啟診斷紀錄檔設定</string>
+  <string name="pref_logs_start">開始記錄</string>
+  <string name="pref_logs_stop">停止記錄</string>
+  <string name="pref_typing_title">啟用輸入指示器</string>
+  <string name="pref_typing_summary">傳送與接收輸入指示器，表明正在輸入訊息。</string>
+  <string name="pref_block_record_title">封鎖螢幕截圖與錄製</string>
+  <string name="pref_block_record_summary">靜止拍攝螢幕截圖或錄製影片。</string>
+  <string name="pref_link_preview_title">在對話中顯示連結預覽</string>
+  <string name="pref_link_preview_summary">預覽需要從第三方伺服器下載內容。</string>
+  <!--Notifications Visibility-->
+  <!--Extension-->
+  <string name="pref_extensions_title">扩展</string>
+  <string name="extension_invalid_signature"><b>%1$s</b>具有无效的签名</string>
+</resources>

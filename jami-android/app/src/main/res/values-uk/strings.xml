@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--About-->
+  <string name="section_license">Ліцензія</string>
+  <string name="copyright_section">Авторське право</string>
+  <string name="contribute_section">Зробити внесок</string>
+  <string name="version_section">Версія</string>
+  <string name="website_chooser_title">Переглянути сайт за допомогою...</string>
+  <string name="license">Це програмне забезпечення надається \"як є\", без будь-яких гарантій. Більш детально дивіться<u>GNU General Public License версію 3 чи новішу</u></string>
+  <string name="description">Jami — це вільне програмне забезпечення для будь-якого звʼязку з повагою до свобод і приватності користувачів.</string>
+  <string name="credits">Подяки</string>
+  <string name="pip_title">Конференція Jami</string>
+  <string name="call_service_description">Ця послуга необхідна для того, щоб ваші дзвінки залишалися на передньому плані. Вона працює тільки під час дзвінків.</string>
+  <string name="data_transfer_service_description">Ця послуга необхідна для відображення постійних сповіщень під час передачі файлів. Вона працює лише під час передачі файлів.</string>
+  <!--About dialog-->
+  <string name="media">Медіа</string>
+  <!--RingActivity-->
+  <string name="error_no_network">Відсутнє з’єднання з мережею</string>
+  <string name="error_account_offline">Обліковий запис поза мережею</string>
+  <!--AB menus-->
+  <string name="ab_action_chat">Текстова переписка</string>
+  <!--Sections-->
+  <string name="menu_item_contact_request">Запити контактів</string>
+  <string name="menu_item_accounts">Керувати обліковими записами</string>
+  <string name="menu_item_account">Керувати акаунтом</string>
+  <string name="menu_item_settings">Налаштування</string>
+  <string name="menu_item_advanced_settings">Розширені налаштування</string>
+  <string name="menu_item_account_settings">Налаштування облікового запису</string>
+  <string name="menu_item_share">Поділитися моїм обліковим записом</string>
+  <string name="menu_item_about">Про Jami</string>
+  <string name="video_setting_title">Настройки відео</string>
+  <!--Dialing Fragment-->
+  <!--History Fragment-->
+  <!--Home Fragment-->
+  <string name="invitation_card_title">Запрошення отримані</string>
+  <plurals name="home_conferences_title">
+    <item quantity="one">%d груповий чат</item>
+    <item quantity="few">%d групових чатів</item>
+    <item quantity="many">%d групові чати</item>
+    <item quantity="other">%d групові чати</item>
+  </plurals>
+  <!--ContactList Fragment-->
+  <string name="choose_number">Оберіть номер</string>
+  <!--FileExplorerDFragement-->
+  <!--TransferDFragment-->
+  <!--Notifications-->
+  <string name="notif_missed_incoming_call">Пропущений вхідний виклик</string>
+  <string name="notif_missed_outgoing_call">Пропущений вихідний виклик</string>
+  <string name="notif_incoming_call_title">Вхідний виклик від %1$s</string>
+  <string name="notif_incoming_call">Вхідний виклик</string>
+  <string name="notif_outgoing_call_title">Вихідний виклик до %1$s</string>
+  <string name="notif_outgoing_call">Вихідний виклик</string>
+  <string name="notif_current_call_title">Продовжений дзвін з %1$s</string>
+  <string name="notif_current_call">Вихідний виклик</string>
+  <string name="notif_channel_call_in_progress">Виклик у процесі</string>
+  <string name="notif_channel_calls">Дзвінки</string>
+  <string name="notif_channel_missed_calls">Пропущені виклики</string>
+  <string name="notif_channel_incoming_calls">Вхідні звінки</string>
+  <string name="notif_channel_messages">Повідомлення</string>
+  <string name="notif_channel_requests">Запити</string>
+  <string name="notif_channel_file_transfer">Передача файлів</string>
+  <string name="notif_channel_sync">Синхронізація даних</string>
+  <string name="notif_channel_background_service">Фоновий сервіс</string>
+  <string name="notif_channel_background_service_descr">Дозволяє будь-коли отримувати дзвінки і повідомлення.</string>
+  <string name="notif_group_calls">Дзвінки</string>
+  <string name="notif_inprogress_group_call">Виклик у процесі</string>
+  <string name="notif_mark_as_read">Позначити прочитаним</string>
+  <string name="notif_dismiss">Відхилити</string>
+  <string name="notif_reply">Відповісти</string>
+  <string name="notif_incoming_file_transfer_title">Вхідний файл від %1$s</string>
+  <string name="notif_outgoing_file_transfer_title">Надсилаємо файл до %1$s </string>
+  <string name="notif_incoming_picture">Картинка від %1$s</string>
+  <string name="notif_sync_title">Синхронізація даних в процесі...</string>
+  <string name="notif_location_title">Розділення місця з %1$s</string>
+  <string name="location_share_contact">%1$s ділиться з вами місцезнаходженням</string>
+  <string name="notif_location_multi_title">Розділення місця з %1$d контактів</string>
+  <string name="notif_location_remaining">Залишилось %1$d хвилин</string>
+  <string name="notif_location_action_stop">Зупинити обмін геоданними</string>
+  <string name="location_share_action_start">Розпочати поширення</string>
+  <string name="location_share_action_stop">Зупинити поширення</string>
+  <string name="location_share_about_title">Інформація з карти</string>
+  <!--Call Fragment-->
+  <string name="you_txt_prefix">Ви:</string>
+  <string name="action_call_hangup">Зупинити</string>
+  <string name="action_call_maximize">Збільшити</string>
+  <string name="action_call_minimize">Зменшити</string>
+  <string name="action_call_mute">Немов</string>
+  <string name="action_call_unmute">Незамовлений</string>
+  <string name="ongoing_call">Вихідний виклик</string>
+  <string name="hist_in_call">Вхідний виклик тривалістю %1$s</string>
+  <string name="hist_out_call">Вихідний виклик тривалістю %1$s</string>
+  <string name="call_duration">Тривалість %s</string>
+  <string name="action_call_decline">Відхилити</string>
+  <string name="action_call_mic_mute">Відключити мікрофон</string>
+  <string name="ab_action_speakerphone">Увімкнути гучномовець</string>
+  <string name="ab_action_contact_add">Додати до контактів</string>
+  <string name="ab_action_contact_add_question">Додати до контактів?</string>
+  <string name="ab_action_audio_call">Розпочати аудіодзвінок</string>
+  <string name="ab_action_video_call">Розпочати відеодзвінок</string>
+  <string name="ab_action_change_screen_orientation">Змінити орієнтацію екрану</string>
+  <string name="share_via">Поділитися за допомогою</string>
+  <string name="scan_qr">Сканування QR коду</string>
+  <string name="qr_code">QR код</string>
+  <string name="new_group">Створити нову групу</string>
+  <string name="ab_action_flipcamera">Змінити камеру</string>
+  <string name="ab_action_hidepreview">Сховати передогляд</string>
+  <string name="remote_recording">Запис %s...</string>
+  <!--Text messages-->
+  <string name="send_message">Відправити повідомлення</string>
+  <string name="message_sending"> Повідомлення надсилається...</string>
+  <string name="message_failed">Невдало</string>
+  <string name="time_just_now">Прямо зараз</string>
+  <string name="send_file">Відправити файл</string>
+  <string name="select_media">Відкрити галерею</string>
+  <string name="hist_file_sent">Файл відправлено</string>
+  <string name="hist_file_received">Файл отримано</string>
+  <string name="conversation_send_audio">Записати аудіо</string>
+  <string name="conversation_send_video">Записати відео</string>
+  <string name="conversation_share_location">Поділитися геоданними</string>
+  <string name="ongoing_group_call">Вихідний виклик</string>
+  <string name="in_reply_to">Відповідно до</string>
+  <!--MediaPreferenceFragment-->
+  <string name="permission_dialog_camera_title">Дозволи для камери</string>
+  <!--Ringtone activity-->
+  <string name="ringtone_error_title">Помилка</string>
+  <string name="ringtone_error_format_not_supported">Цей формат не підтримується</string>
+  <string name="ringtone_error_size_too_big">Цей файл надто великий. Максимальний розмір — %1$dкБ. </string>
+  <string name="ringtone_custom_prompt">Встановити власний рингтон</string>
+  <string name="ringtone_custom_label">Кастомізація</string>
+  <!--Read contacts permission-->
+  <!--Write call log permission-->
+  <!--QRCode Scan-->
+  <string name="scan_qr_account_message">Проскануйте QR-код облікового запису, який ви хочете додати.</string>
+  <string name="title_activity_qrcode">Поділитися моїм обліковим записом</string>
+  <string name="tab_code">Мій код</string>
+  <string name="tab_scan">Сканувати код</string>
+  <!--Settings-->
+  <string name="clear_history_dialog_title">Очистити історію?</string>
+  <string name="clear_history_dialog_message">Наслідки цієї дії не можна буде змінити.</string>
+  <string name="clear_history_completed">Історія була очищена.</string>
+  <string name="clear_history">Очистити</string>
+  <!--Conversation-->
+  <string name="conversation_details">Деталі розмови</string>
+  <string name="contact_details">Деталі контакту</string>
+  <string name="conversation_action_delete_this">Видалити цю розмову</string>
+  <string name="leave_conversation">Не переконвайтеся</string>
+  <string name="conversation_action_delete_this_message">Наслідки цієї дії не можна буде змінити.</string>
+  <string name="conversation_action_history_clear">Видалити історію</string>
+  <string name="conversation_action_history_clear_title">Очистити історію розмов?</string>
+  <string name="conversation_action_history_clear_message">Це остаточно очистить історію розмов.</string>
+  <string name="delete_contact">Видалити контакт</string>
+  <string name="conversation_action_remove_this_title">Видалити цей контакт?</string>
+  <string name="conversation_action_remove_this_message">Це видалить контакт і остаточно очистить історію розмов.</string>
+  <string name="copied_to_clipboard">%1$s збережено у буфер</string>
+  <string name="conversation_action_select_peer_number">Виберіть номер</string>
+  <string name="conversation_action_block_this">Заблокувати контакт</string>
+  <string name="conversation_action_unblock_this">Відблокувати контакт</string>
+  <string name="conversation_action_incoming_call">Вхідний виклик</string>
+  <string name="conversation_action_latest">Прокрутити до кінця розмови</string>
+  <string name="conversation_open_file_error">Немає встановленої програми, здатної відкрити цей тип файлу.</string>
+  <string name="clip_contact_uri">Адреса контакту</string>
+  <string name="block_contact_dialog_title">Блокувати %1$s?</string>
+  <string name="block_contact_dialog_message">%1$s не зможе зв\'язатися з вами, поки ви його не розблокуєте.</string>
+  <string name="block_contact_completed">%1$s заблоковано.</string>
+  <string name="unblock_contact_dialog_title">Відблокувати %1$s?</string>
+  <string name="unblock_contact_dialog_message">%1$s зможе знову зв\'язатися з вами.</string>
+  <string name="unblock_contact_completed">%1$s був розблокований.</string>
+  <string name="conversation_contact_is_typing">Контакт - це вписати...</string>
+  <string name="conversation_info_contact_you">Ви</string>
+  <string name="conversation_members">Учасники</string>
+  <string name="conversation_syncing">Завантаження розмови з вузла</string>
+  <string name="conversation_blocked">Цей контакт заблокований.</string>
+  <string name="conversation_ended">Розмова закінчилася.</string>
+  <string name="conversation_reply_you">Ви</string>
+  <string name="conversation_preference_color">Колір розмови</string>
+  <string name="conversation_preference_emoji">Емоджи розмови</string>
+  <string name="conversation_type_contact">Контакт Jami</string>
+  <string name="conversation_type_private">Приватне</string>
+  <string name="conversation_type_group">Група</string>
+  <string name="conversation_contact_invited">%1$s запрошений</string>
+  <string name="conversation_contact_added">%1$s приєднаний</string>
+  <string name="conversation_contact_left">%1$s залишився</string>
+  <string name="conversation_search_hint">Пошук розмов</string>
+  <string name="today">Сьогодні</string>
+  <string name="yesterday">Учора</string>
+  <!--Contacts-->
+  <string name="add_call_contact_number_to_contacts">Додати %1$s?</string>
+  <string name="prompt_new_password">Новий пароль</string>
+  <string name="prompt_new_password_optional">Новий пароль (не обов\'язково)</string>
+  <string name="prompt_new_password_repeat">Новий пароль ще раз</string>
+  <string name="account_create_title">Створити обліковий запис Jami</string>
+  <string name="prompt_new_username">Вкажіть нове ім\'я користувача</string>
+  <string name="prompt_hint_username">Ім’я</string>
+  <string name="help_password_choose">Оберіть сильний пароль, який ви запамʼятаєте, щоб захистити свій обліковий запис Jami.</string>
+  <string name="help_password_enter">Уведіть свій основний пароль для облікового запису Jami.</string>
+  <string name="help_server_enter">Введіть URL сервера управління.</string>
+  <string name="wizard_next">Далі</string>
+  <string name="wizard_back">Назад</string>
+  <string name="wizard_skip">Пропустити</string>
+  <string name="hist_contact_invited">Контакт запрошено</string>
+  <string name="hist_contact_added">Контакт додано</string>
+  <string name="hist_contact_left">Контакт ліво</string>
+  <string name="hist_invitation_received">Отримано запрошення</string>
+  <!--Account summary-->
+  <string name="profile">Профіль</string>
+  <string name="profile_message_warning">Ваш профіль бачитимуть лише ваші контакти</string>
+  <string name="open_the_gallery">Відкрити галерею</string>
+  <string name="take_a_photo">Сфотографувати</string>
+  <string name="profile_name_hint">Введіть своє ім\'я</string>
+  <string name="registered_name">Зареєстроване ім\'я</string>
+  <string name="no_registered_name">Немає зареєстрованого ім\'я</string>
+  <string name="identity">Особа</string>
+  <string name="identifier">Ідентифікатор</string>
+  <string name="account">Обліковий запис</string>
+  <string name="link_new_device">Прив\'язати новий пристрій</string>
+  <string name="devices">Привʼязані пристрої</string>
+  <string name="total_devices">Загальна кількість пристроїв:</string>
+  <!--Share fragment-->
+  <string name="share_message">Зіскануйте цей код у Jami</string>
+  <string name="share_message_no_account">Будь ласка, оберіть обліковий запис, щоб поділитися.</string>
+  <string name="share_your_account_information">Поділитися моїми контактними відомостями</string>
+  <string name="share_label">Поділитися</string>
+  <string name="generic_error_migration">Помилка</string>
+  <string name="title_share_with">Поділитися з...</string>
+  <!--Pending invitations-->
+  <string name="accept">Прийняти</string>
+  <string name="decline">Відхилити</string>
+  <string name="block">Заблокувати</string>
+  <string name="invitation_message">У вас є %1$d запити контактів</string>
+  <!--Blacklist-->
+  <string name="no_blocked_contact">Заблоковані користувачі відсутні</string>
+  <!--Smartlist-->
+  <string name="no_contact_request">Не було відправлено жодних запитів контакту</string>
+  <string name="conversation_placeholder">Поки що діалоги відсутні</string>
+  <string name="contact_request_sent">Запит контакту надіслано</string>
+  <string name="start_conversation">Почати розмову</string>
+  <string name="search_results">Результати пошуку</string>
+  <string name="tv_contact_row_header">Контакти</string>
+  <string name="gallery_error_title">Не знайдено програми для перегляду світлин</string>
+  <string name="gallery_error_message">На пристрої не знайдено програми, щоб відкрити галерею</string>
+  <!--File Transfer-->
+  <string name="invalid_file">Недопустимий файл</string>
+  <string name="not_able_to_write_file">Помилка при записі файлу</string>
+  <string name="file_transfer_status_created">Розпочинаю трансфер</string>
+  <string name="file_transfer_status_unsupported">не підтримується</string>
+  <string name="file_transfer_status_wait_peer_acceptance">чекає прийняття з однолітків</string>
+  <string name="file_transfer_status_wait_host_acceptance">чекаючий приймач</string>
+  <string name="file_transfer_status_ongoing">триває</string>
+  <string name="file_transfer_status_finished">завершено</string>
+  <string name="file_transfer_status_closed_by_host">закритою хост</string>
+  <string name="file_transfer_status_closed_by_peer">Близький до однолітків</string>
+  <string name="file_transfer_status_invalid_pathname">Недійне ім\'я шляху</string>
+  <string name="file_transfer_status_unjoinable_peer">неполучається рівнім</string>
+  <string name="file_transfer_status_cancelled">скасовано</string>
+  <string name="file_transfer_status_error">не вдалося через помилку</string>
+  <string name="file_transfer_status_timed_out">час вичерпано</string>
+  <string name="file_saved_in">Файл збережено у %s</string>
+  <string name="file_saved_successfully">Файл успішно збережено</string>
+  <string name="file_download">Завантажити</string>
+  <string name="title_media_viewer">Медіа переглядач</string>
+  <string name="menu_file_open">Відкрити файл</string>
+  <string name="menu_file_download">Завантажити файл</string>
+  <string name="menu_file_save">Зберегти файл</string>
+  <string name="menu_file_delete">Видалити файл</string>
+  <string name="menu_file_share">Відправити файл</string>
+  <string name="menu_message_copy">Копіювати</string>
+  <string name="menu_message_edit">Редагувати повідомлення</string>
+  <string name="menu_message_delete">Видалити повідомлення</string>
+  <string name="menu_message_cancel">Скасувати повідомлення</string>
+  <string name="menu_message_reply">Відповісти</string>
+  <string name="menu_delete">Видалити</string>
+  <string name="pref_darkTheme_title">Темна тема</string>
+  <string name="pref_darkTheme_summary">Завжди використовувати темну тему замість теми за замовчуванням</string>
+  <!--Bottom Navigation-->
+  <string name="navigation_item_conversation">Групові чати</string>
+  <string name="navigation_item_contact_request">Запрошення</string>
+  <string name="navigation_item_account">Обліковий запис</string>
+  <string name="search_results_public_directory">Публічний каталог</string>
+  <!--TV-->
+  <string name="tv_send_audio_dialog_message">Відправити аудіо повідомлення?</string>
+  <string name="tv_send_image_dialog_message">Відправити картинку?</string>
+  <string name="tv_send_video_dialog_message">Відправити відео?</string>
+  <string name="tv_media_preview">Попередній перегляд</string>
+  <string name="tv_audio_play">Програти</string>
+  <string name="tv_audio_pause">Пауза</string>
+  <string name="tv_dialog_send">Відправити</string>
+  <string name="tv_audio_recording">Запис...</string>
+  <string name="tv_send_text">Відправити текст</string>
+  <string name="tv_send_audio">Відправити аудіо</string>
+  <string name="tv_send_video">Відправити медіа</string>
+  <string name="tv_action_more">Більше</string>
+  <string name="conversation_input_speech_hint">Скажіть щось...</string>
+  <!--Wizard-->
+  <string name="wizard_status_recommended">Рекомендовано</string>
+  <string name="wizard_status_optional">За бажанням</string>
+  <string name="wizard_status_required">Обов\'язково</string>
+  <string name="wizard_username_info">Оберіть імʼя користувача для свого облікового запису</string>
+  <string name="wizard_username_button">Введіть ім\'я користувача</string>
+  <string name="wizard_username_skip">Обрати ім\'я користувача пізніше</string>
+  <string name="wizard_password_info">Пароль від облікового запису</string>
+  <string name="wizard_password_placeholder">Виберіть пароль для шифрування ключа рахунку на цьому пристрої</string>
+  <string name="wizard_password_button">Введіть пароль</string>
+  <string name="wizard_password_skip">Створити обліковий запис</string>
+  <string name="wizard_password_switch">Зашифрувати мій профіль за допомогою пароля</string>
+  <string name="wizard_password_warning">Майте на увазі, що пароль неможливо відновити</string>
+  <string name="wizard_profile_info">Ваш профіль бачитимуть лише ваші контакти</string>
+  <string name="wizard_profile_button">Зберегти зміни у профілі</string>
+  <string name="wizard_profile_skip">Пропустити та нагадати пізніше</string>
+  <string name="fab_path_choose">Виберіть інший файл</string>
+  <!--Bottom sheet-->
+  <string name="bottomSheet_share_btn">Поділитися</string>
+  <string name="bottomSheet_dialpad_btn">Диальпади</string>
+  <string name="bottomSheet_extensions_btn">Розширення</string>
+  <string name="bottomSheet_add_participants_btn">Додати</string>
+  <string name="bottomSheet_change_camera_btn">Змінити</string>
+  <string name="bottomSheet_camera_onoff_switch_btn">Камера</string>
+  <string name="bottomSheet_hangup_btn">Закінчити дзвінок</string>
+  <string name="bottomSheet_mute_microphone_btn">Микро</string>
+  <string name="bottomSheet_sound_output_btn">Звуки</string>
+  <string name="bottomSheet_raiseHand_btn">Підняти руку</string>
+  <string name="uninstall">Видалити</string>
+  <string name="reset">Скинути</string>
+  <!--Swarm Details-->
+  <string name="rename_btn">Підтвердження</string>
+  <string name="tab_members">Учасники</string>
+  <string name="tab_files">Файли</string>
+  <string name="tab_settings">Налаштування</string>
+  <string name="dialogtitle_title">Редагуйте заголовок</string>
+  <string name="dialogtitle_description">Редагуйте опис натовпу</string>
+  <string name="dialog_hint_title">Заголовок</string>
+  <string name="dialog_hint_description">Описание</string>
+  <string name="picker_title">Виберіть контакти</string>
+  <string name="picker_btn">Виберіть контакти</string>
+  <string name="bottomsheet_contact">Зверніться до Jami\n%1$s</string>
+  <string name="bottomsheet_remove">Знесіть з рога</string>
+  <string name="error_open_no_app_found">Не знайдено жодного додатку для обробки цього файлу: %1$s</string>
+  <!--JamiId-->
+  <string name="jami_id_copy">Копіювати JamiId</string>
+  <string name="jami_id_share">Поділитися JamiId</string>
+  <string name="jami_id_validate">Зареєструйте ім\'я користувача</string>
+  <string name="jami_id_available">Імʼя користувача доступне</string>
+  <string name="jami_id_not_available">Імʼя користувача недоступне\n• Максимальна кількість символів – 32\n• Дозволені спеціальні символи: дефіс (-), підкреслення (_)</string>
+  <string name="jami_id_info">• 32 символи максимум\n• Дозволені спеціальні символи: дефіс (-), підкреслення (_)</string>
+  <string name="jami_id_looking_for_availability">Перевіряю доступність імені користувача…</string>
+  <string name="jami_id_choose_username">Виберіть ім\'я користувача</string>
+  <!--WelcomeJami-->
+  <string name="welcome_jami_title">Вітаємо в Jami</string>
+  <string name="welcome_jami_description">Поділіться своїм ідентифікатором Jami, щоб можна було легше з вами звʼязатися!</string>
+  <!--Conversation details-->
+  <string name="details">Подробиці</string>
+  <string name="Private">Приватне</string>
+  <!--Donation-->
+  <string name="donation_card_description">Якщо вам подобається Jami і ви вірите в нашу місію, чи не зробили б ви пожертву?</string>
+  <string name="donation_card_not_now">Не зараз</string>
+  <string name="donation_donate">Донат</string>
+  <string name="donation_setting_title">Нагадування про пожертвування</string>
+  <string name="donation_setting_description">Увімкнути нагадування про пожертвування</string>
+  <!--Extension-->
+  <string name="unable_to_load">Неможливо завантажити %1$s</string>
+  <string name="load_success">%1$s: увімкнено</string>
+  <string name="unload_success">%1$s: вимкнено</string>
+</resources>

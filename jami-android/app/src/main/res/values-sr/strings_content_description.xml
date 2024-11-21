@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Strings for xml content description of images-->
+  <string name="dial_numeric_pad">Numerička tastatura</string>
+  <string name="contact_unblock">Deblokiraj</string>
+  <string name="file_download_button">Preuzimanje</string>
+  <string name="control_play">Pusti</string>
+  <string name="control_replay">Ponovi</string>
+  <string name="control_pause">Pauziraj</string>
+  <string name="searchbar_navigation_account">Izaberi nalog</string>
+</resources>

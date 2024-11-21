@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="pref_category_network">Võrk</string>
+  <string name="pref_category_contacts">Kontaktid</string>
+  <string name="pref_category_video">Video</string>
+  <string name="pref_category_system">Süsteem</string>
+  <string name="pref_category_privacy">Privaatsus</string>
+  <string name="pref_category_diagnostic">Diagnostika</string>
+  <string name="pref_mobileData_title">Mobiilne andmeside</string>
+  <string name="pref_mobileData_summary">Lisaks WiFi võrkudel luba, et Jami kasutab 3G/LTE võrke</string>
+  <string name="pref_pushNotifications_title">Tõuketeavitused</string>
+  <string name="pref_pushNotifications_summary">Kõnede ja sõnumite taustateavituste jaoks kasuta Google\'i serverid</string>
+  <string name="pref_unifiedPush_summary">Kõnede ja sõnumite taustateavituste jaoks kasuta UnifiedPush teenust</string>
+  <string name="pref_video_advanced_title">Täiendavad videoseadistused</string>
+  <string name="pref_video_advanced_summary">Muuda video bitikiirust, resolutsiooni ning proovi katselisi seadistusi</string>
+  <string name="pref_hd_summary">Võimalda kõrgresolutsiooniga video saatmist</string>
+  <string name="pref_hwEncode_title">Kasuta video kodeerimisel raudvaralist kiirendamist</string>
+  <string name="pref_hwEncode_summary">Katseline funktsionaalsus</string>
+  <string name="pref_videoBitrate_title">Video bitikiirus</string>
+  <string name="pref_videoBitrate_summary">Vali saadetava meedia jaoks vaikimisi video bitikiirus (KB/s)</string>
+  <string name="pref_videoResolution_title">Video resolutsioon</string>
+  <string name="pref_videoResolution_summary">Vali saadetava meedia jaoks vaikimisi video resolutsioon</string>
+  <string name="pref_systemContacts_title">Kasuta süsteemi kontakte</string>
+  <string name="pref_systemContacts_summary">Teise osapoole andmete kuvamiseks kasuta süsteemi kontakte</string>
+  <string name="pref_systemDialer_title">Tee süsteemi kõned Jami abil</string>
+  <string name="pref_systemDialer_summary">Kui vähegi võimalik kasuta Jami rakendust süsteemi kõnede jaoks</string>
+  <string name="pref_startOnBoot_title">Käivita Jami nutiseadme käivitamisel</string>
+  <string name="pref_startOnBoot_summary">Sinu nutiseadme käivitamisel pane Jami taustal tööle.</string>
+  <string name="pref_clearHistory_title">Kustuta ajalugu</string>
+  <string name="pref_notification_title">Teavituste nähtavus</string>
+  <string name="pref_notification_summary">Seada rakenduse teavituste nähtavust nutiseadme lukustusvaates.</string>
+  <string name="pref_blackList_title">Blokeeritud osapoolte nimekiri</string>
+  <string name="pref_blackList_summary">Vaata oma blokeeritud osapoolte nimekirja.</string>
+  <string name="pref_delete_account_title">Kustuta kasutajakonto</string>
+  <string name="pref_newGroup_title">Luba rühmavestlused</string>
+  <string name="pref_newGroup_summary">Võimalda Jami rakenduses luua vestlusrühmi.</string>
+  <string name="pref_logs_title">Diagnostika logid</string>
+  <string name="pref_logs_summary">Ava diagnostilise logimise seadistused</string>
+  <string name="pref_logs_start">Alusta logimist</string>
+  <string name="pref_logs_stop">Lõpeta logimine</string>
+  <string name="pref_typing_title">Luba trükkimisteatiste kuvamine</string>
+  <string name="pref_typing_summary">Saada ise ja saa trükkimisteatisi, mis näitavad, et teine osapool kirjutab sõnumit.</string>
+  <string name="pref_block_record_title">Blokeeri ekraanitõmmised ja -salvestamine</string>
+  <string name="pref_block_record_summary">Blokeeri ekraanivaatest tõmmiste ja salvestuste tegemine.</string>
+  <string name="pref_link_preview_title">Näita vestlustes linkide eelvaateid</string>
+  <string name="pref_link_preview_summary">Eelvaadete näitamine eeldab sisu laadimist kolmandate osapoolte serveritest.</string>
+  <!--Notifications Visibility-->
+  <!--Extension-->
+  <string name="pref_extensions_title">Lisamoodulid</string>
+  <string name="extension_invalid_signature">Plugina <b>%1$s</b> allkiri on vigane</string>
+</resources>

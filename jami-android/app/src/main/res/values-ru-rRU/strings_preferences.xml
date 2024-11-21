@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="pref_category_network">Сеть</string>
+  <string name="pref_category_contacts">Контакты</string>
+  <string name="pref_category_video">Видео</string>
+  <string name="pref_category_system">Система</string>
+  <string name="pref_category_privacy">Приватность</string>
+  <string name="pref_category_diagnostic">Диагностика</string>
+  <string name="pref_mobileData_title">Мобильные данные</string>
+  <string name="pref_mobileData_summary">Разрешить Jami использовать 3G / LTE в дополнение к Wi-Fi</string>
+  <string name="pref_pushNotifications_title">Всплывающие уведомления</string>
+  <string name="pref_pushNotifications_summary">Использовать сервера Google, чтобы разрешить прием звонков/сообщений в фоновом режиме</string>
+  <string name="pref_unifiedPush_summary">Используйте службу UnifiedPush для получения звонков и сообщений в фоновом режиме</string>
+  <string name="pref_video_advanced_title">Расширенные настройки видео</string>
+  <string name="pref_video_advanced_summary">Изменить битрейт видео, разрешение, а также получите доступ к экспериментальным функциям</string>
+  <string name="pref_hd_summary">Включить отправку HD-видео</string>
+  <string name="pref_hwEncode_title">Включить ускоренное кодирование</string>
+  <string name="pref_hwEncode_summary">Экспериментальная возможность</string>
+  <string name="pref_videoBitrate_title">Скорость передачи видео</string>
+  <string name="pref_videoBitrate_summary">Выбрать битрейт исходящего видео по умолчанию (кБ/с)</string>
+  <string name="pref_videoResolution_title">Разрешение видео</string>
+  <string name="pref_videoResolution_summary">Выбрать разрешение исходящего видео по умолчанию</string>
+  <string name="pref_systemContacts_title">Использовать системные контакты</string>
+  <string name="pref_systemContacts_summary">Использовать системные контакты для входящих.</string>
+  <string name="pref_systemDialer_title">Выполнение системных вызовов с помощью Jami</string>
+  <string name="pref_systemDialer_summary">Использовать Jami для системных вызовов, когда это возможно.</string>
+  <string name="pref_startOnBoot_title">Автозапуск Jami</string>
+  <string name="pref_startOnBoot_summary">Запускать Jami в фоновом режиме при запуске системы.</string>
+  <string name="pref_clearHistory_title">Очистить историю</string>
+  <string name="pref_clearHistory_summary">Очистить историю всех разговоров. Это действие невозможно отменить.</string>
+  <string name="pref_notification_title">Видимость уведомлений</string>
+  <string name="pref_notification_summary">Установить видимость уведомлений приложения на экране блокировки. </string>
+  <string name="pref_blackList_title">Черный список</string>
+  <string name="pref_blackList_summary">Проверить список блокировок</string>
+  <string name="pref_delete_account_title">Удалить аккаунт</string>
+  <string name="pref_newGroup_title">Включить групповые чаты</string>
+  <string name="pref_newGroup_summary">Включить создание групп в Jami.</string>
+  <string name="pref_logs_title">Диагностические логи</string>
+  <string name="pref_logs_summary">Открыть настройки диагностических логов</string>
+  <string name="pref_logs_start">Начать логирование</string>
+  <string name="pref_logs_stop">Остановить логирование</string>
+  <string name="pref_typing_title">Включить оповещения о наборе текста</string>
+  <string name="pref_typing_summary">Оповещения о наборе текста показывают что пользователь набирает сообщение</string>
+  <string name="pref_block_record_title">Отключить снимки и запись экрана</string>
+  <string name="pref_block_record_summary">Отключить снимки и запись экрана</string>
+  <string name="pref_link_preview_title">Показывать предварительный просмотр ссылок в разговорах</string>
+  <string name="pref_link_preview_summary">Предварительный просмотр требует загрузки контента со сторонних серверов.</string>
+  <!--Notifications Visibility-->
+  <!--Extension-->
+  <string name="pref_extensions_title">Расширения</string>
+  <string name="pref_extensions_summary">Включить расширения и настроить их параметры</string>
+  <string name="fab_extensions_add">Добавить новое расширение</string>
+  <string name="extension_uninstall_title">Удалить расширение?</string>
+  <string name="extension_reset_preferences">Сбросить настройки расширения</string>
+  <string name="extension_reset_preferences_summary">Расширение сброшено к настройкам по умолчанию</string>
+  <string name="extension_reset_preferences_ask">Вы хотите сбросить общие настройки расширения?</string>
+  <string name="extension_reset_account_preferences_ask">Вы хотите сбросить настройки расширения аккаунта?</string>
+  <string name="extension_install_failure">Произошла ошибка при установке расширения: <b>%1$s</b></string>
+  <string name="extension_recent_version_exception">Уже установлена более новая версия <b>%1$s</b></string>
+  <string name="extension_same_version_exception">Уже установлена та же версия <b>%1$s</b></string>
+  <string name="extension_invalid_signature"><b>%1$s</b> имеет недействительную подпись</string>
+  <string name="extension_invalid_format">Неверный формат расширения: <b>%1$s</b></string>
+  <string name="extension_path_image_add">Добавить новое изображение</string>
+</resources>

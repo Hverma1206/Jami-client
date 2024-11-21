@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="pref_category_network">Mreža</string>
+  <string name="pref_category_contacts">Kontakti</string>
+  <string name="pref_category_video">Video</string>
+  <string name="pref_category_system">Sistem</string>
+  <string name="pref_category_privacy">Privatnost</string>
+  <string name="pref_category_diagnostic">Dijagnostika</string>
+  <string name="pref_mobileData_title">Mobilni podaci</string>
+  <string name="pref_mobileData_summary">Dozvoli Jami-u 3G/LTE mreže dodatno pored Wi-Fi mreže</string>
+  <string name="pref_pushNotifications_title">Push obaveštenja</string>
+  <string name="pref_pushNotifications_summary">Koristite Google servere da biste dozvolili primanje poziva/poruka u pozadini</string>
+  <string name="pref_unifiedPush_summary">Koristite UnifiedPush uslugu da biste dozvolili primanje poziva/poruka u pozadini</string>
+  <string name="pref_video_advanced_title">Napredne video postavke</string>
+  <string name="pref_video_advanced_summary">Promenite brzinu video zapisa, rezoluciju, kao i pristup eksperimentalnim funkcijama</string>
+  <string name="pref_hd_summary">Omogućite slanje HD videa</string>
+  <string name="pref_hwEncode_title">Omogući ubrzano kodiranje</string>
+  <string name="pref_hwEncode_summary">Eksperimentalna karakteristika</string>
+  <string name="pref_videoBitrate_title">Video bitaža</string>
+  <string name="pref_videoBitrate_summary">Izaberite podrazumevanu brzinu odlaznog video zapisa (KB/s)</string>
+  <string name="pref_videoResolution_title">Video rezolucija</string>
+  <string name="pref_videoResolution_summary">Izaberite podrazumevanu rezoluciju odlaznog videa</string>
+  <string name="pref_systemContacts_title">Koristite sistemske kontakte</string>
+  <string name="pref_systemContacts_summary">Koristite sistemske kontakte da biste prikazali detalje o pozivaocu.</string>
+  <string name="pref_systemDialer_title">Uputite sistemske pozive koristeći Jami</string>
+  <string name="pref_systemDialer_summary">Koristite Jami za upućivanje sistemskih poziva kada je to moguće.</string>
+  <string name="pref_startOnBoot_title">Pokrenite Jami pri pokretanju</string>
+  <string name="pref_startOnBoot_summary">Pokrenite Jami u pozadini kada se sistem pokrene.</string>
+  <string name="pref_clearHistory_title">Izbriši istoriju</string>
+  <string name="pref_notification_title">Vidljivost obaveštenja</string>
+  <string name="pref_notification_summary">Podesite vidljivost obaveštenja aplikacija na zaključanom ekranu.</string>
+  <string name="pref_blackList_title">Blok lista</string>
+  <string name="pref_blackList_summary">Proverite svoju listu blokiranih.</string>
+  <string name="pref_delete_account_title">Obrisati nalog</string>
+  <string name="pref_newGroup_title">Omogući grupno ćaskanje</string>
+  <string name="pref_newGroup_summary">Omogući kreiranje grupa u Jamiju.</string>
+  <string name="pref_logs_title">Dijagnostičke evidencije</string>
+  <string name="pref_logs_summary">Otvorite podešavanja dijagnostičkog dnevnika</string>
+  <string name="pref_logs_start">Započnite evidentiranje</string>
+  <string name="pref_logs_stop">Zaustavite evidentiranje</string>
+  <string name="pref_typing_title">Omogući indikatore kucanja</string>
+  <string name="pref_typing_summary">Šaljite i primajte indikatore kucanja koji pokazuju da se poruka kuca.</string>
+  <string name="pref_block_record_title">Blokirajte snimak ekrana i snimanje</string>
+  <string name="pref_block_record_summary">Blokirajte snimanje ekrana ili video snimak.</string>
+  <string name="pref_link_preview_title">Prikaži preglede veza u razgovorima</string>
+  <string name="pref_link_preview_summary">Pregledi zahtevaju preuzimanje sadržaja sa servera trećih strana.</string>
+  <!--Notifications Visibility-->
+  <!--Extension-->
+  <string name="pref_extensions_title">Proširenja</string>
+  <string name="extension_invalid_signature"><b>%1$s</b> ima nevažeći potpis</string>
+</resources>
